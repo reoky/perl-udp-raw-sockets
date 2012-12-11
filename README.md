@@ -2,7 +2,7 @@
 
 The purpose of this repository is to provide a good starting point for Perl programmers who want to learn about the networking stack or raw socket programming in Perl. Hopefully this code will be helpful to you and your projects.
 
-## Usefull Reasources
+## Useful Resources
 
 I found this PDF pocket guide that I found to be a valuable reference:
 www.utdallas.edu/~cantrell/ee6345/pocketguide.pdf
